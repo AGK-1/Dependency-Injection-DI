@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5x4t1NsuQkntCI2Vrw631xH7/7YvkggoxMjzq7jFUBwpjjFMJ4ZHkv9hEif/JBRkySi7T0VWOfOHyot4nbtnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikto\\OneDrive\\Desktop\\lessone\\c-charpok\\InDepend\\InDepend\\InDepend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

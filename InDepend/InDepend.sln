@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InDepend", "InDepend\InDepend.csproj", "{D422D2BE-9C5A-4FD8-AF6E-66C3DC20E034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D422D2BE-9C5A-4FD8-AF6E-66C3DC20E034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D422D2BE-9C5A-4FD8-AF6E-66C3DC20E034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D422D2BE-9C5A-4FD8-AF6E-66C3DC20E034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D422D2BE-9C5A-4FD8-AF6E-66C3DC20E034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A1E300-1CD6-4053-A0B6-9ED405DEB5EE}
+	EndGlobalSection
+EndGlobal
